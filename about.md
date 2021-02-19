@@ -4,23 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Hi，我是 lemon.
+Hi，我是 Alex.
 
-### 技能
+### 初衷
 
-Linux后端分布式高性能服务开发，差一点精通 C++，Golang 成长中，Python小玩具。
+学习医学文献，以文会友，一起进步
 
-### 经历
+### 介绍
 
-软件工程师(Software Engineer)，电子信息工程学士学位( Electronic and Information Engineering )，从事服务器软件后台开发工作多年，现就职腾讯（Tencent）公司。
-
-个人技术公众号「后端技术学堂」分享、记录、成长，欢迎扫码添加。
-
-![公众号二维码](https://upload-images.jianshu.io/upload_images/7842464-15f939ec039690f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
+目前就读于北京某医学院，专业是心脏病学，主要关注心律失常
 
 ### 版权声明
 
-博客文章是我原创文章，存档于_posts 文件夹下，版权归我所有，转载请与我联系获得授权许可。
+无特殊说明笔记均为我原创文章，版权归我所有，转载请与我联系获得授权许可。
 
