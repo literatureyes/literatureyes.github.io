@@ -64,18 +64,10 @@ disqus: # fromendworld
 # Gitalk
 gitalk:
   
-  
-  enable: true     # 是否开启评论功能
   clientID:  396a65ea19629fa0b267
   clientSecret:  257fee13e253bc60937325130bd153f3c33fa022
   repo: literatureyes.github.io
   owner: literatureyes
-  admin: ['literatureyes'] # 管理员用户，可以填多个
-  ID: location.pathname   # 页面 ID默认值，用于生成的 Issues 的 Labels 的值
-  perPage: 15 # 每页最大评论数
-  pagerDirection: last    # 排序方式是从旧到新（first）还是从新到旧（last）
-  createIssueManually: true   #如果当前页面没有相应的 isssue ，且登录的用户属于 admin，则会自动创建 issue。如果设置为 true，则显示一个初始化页面，创建 issue 需要点击 init 按钮。
-  distractionFreeMode: false  #是否启用快捷键(cmd|ctrl + enter) 提交评论.
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
