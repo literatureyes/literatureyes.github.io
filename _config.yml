@@ -63,11 +63,14 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  
-  clientID:  396a65ea19629fa0b267
-  clientSecret:  257fee13e253bc60937325130bd153f3c33fa022
-  repo: literatureyes.github.io
+  enable: true
   owner: literatureyes
+  repo: literatureyes.github.io
+  oauth:
+    clientID:  396a65ea19629fa0b267
+    clientSecret:  257fee13e253bc60937325130bd153f3c33fa022
+  admin: literatureyes
+  
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
